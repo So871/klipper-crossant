@@ -1,4 +1,4 @@
-# klipper-crossant
+# Klipper-Crossant235.7
 My klipper configs for crossant
 - Mainboard : Mellow Super Fly 8 PRO
 - External Drivers: Mellow 5160 PRO
