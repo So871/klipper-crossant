@@ -1,4 +1,4 @@
 saved_variables.cfg
 adxl_results/belts/*.csv
 adxl_results/vibrations/*.tar.gz
-printer-[0-9]*_[0-9]*.cfg  
+printer-[0-9]*_[0-9]*.cfg
