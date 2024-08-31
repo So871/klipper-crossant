@@ -41,14 +41,14 @@ enable_pin: !MKS_THR:gpio10
 microsteps: 16
 rotation_distance: 4.637
 full_steps_per_rotation: 200
-nozzle_diameter: 0.600
+nozzle_diameter: 0.6
 filament_diameter: 1.75
 heater_pin:MKS_THR:gpio0
 sensor_pin: MKS_THR:gpio26
 sensor_type: Generic 3950
 min_temp: 0
 max_temp: 380
-max_power: 0.7
+max_power: 0.8
 min_extrude_temp: 170
 control = pid
 pid_kp = 18.486
